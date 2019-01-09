@@ -1,4 +1,7 @@
 stash
 I need to commit my working project in between some incomplete development
 I don't want to loss my current devlopment
-I can move to my 
+I can move my cuurent work on some local space, using 
+git stash command
+then we can use git status,
+then we can commit 
